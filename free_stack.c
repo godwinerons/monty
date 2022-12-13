@@ -1,4 +1,4 @@
-#includ "monty.h"
+#include "monty.h"
 
 /**
  * exit_function - handles errors and frees memory before exiting
