@@ -1,4 +1,4 @@
-read digits
+read digit
 , >,
 plus
 <[>+<-]
