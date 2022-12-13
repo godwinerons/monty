@@ -1,4 +1,4 @@
-#include "monty.h"
+#includ "monty.h"
 
 /**
   * lifo - changes the addition to the stack to LIFO
