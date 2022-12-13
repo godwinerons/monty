@@ -1,4 +1,4 @@
-read 
+rea 
 >, >, <<
 convert from ascii
 +++++ +
